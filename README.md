@@ -1,4 +1,4 @@
-# Voteana
+# Voteanna
 
 ### The Problem
 - Our current voting system is a very physical process. We have to hurl voting machines to various places, count and recount at every stage and every movement, and manually add up the figures. It's painfully slow in the digitised world we live in today.
