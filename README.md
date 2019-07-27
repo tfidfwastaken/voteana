@@ -6,7 +6,7 @@
 - Voters have to be present in their constituency in order to vote, which is not always possible for them.
 
 ### Pushing voting to the digital age with Azure Blockchain
-Voting has never been able to benefit from modern technology and the internet because it is a fundamentally insecure to hacking, and in an election, no one can be trusted to ensure the integrity of the program or the vote tallying.
+Voting has never been able to benefit from modern technology and the internet because it is fundamentally insecure and vulnerable to hacking, and in an election, no one can be trusted to ensure the integrity of the program or the vote tallying.
 
 The introduction of blockchain changes this equation. Decentralised blockchain technologies ensure integrity of the vote tally as well as the program itself, due to its immutable nature.
 
